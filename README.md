@@ -10,7 +10,7 @@ API used - [Pickup Lines](https://getpickuplines.herokuapp.com/lines)
 
 Retrieved data using the fetch API. [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API]
 
-Followed this article to solve issues for using a free API - []
+Followed this article to solve issues for using a free API -(Medium Article)[https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9]
 
 Used Heruko to implement a fix for CORS issues. CORS is truly dreadful. 
 Apparently, the free API did not send proper headers. Therefore ran into crazy errors.
